@@ -1,6 +1,6 @@
 # Broker_IA
 
-![Logo](https://miro.medium.com/v2/resize:fit:1400/1*I_Bq-ZSLJnlPrw8SKdW3lA.gif)
+!https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQrju6qSnKraoxaEi3Fv0-9f8XNKXxAjZN-Z2GhWy8yWlqgwMCyiiMXM5Jf0pviMBA66Q&usqp=CAU)
 
 ## This Streamlit web app leverages OpenAI's AI to analyze and compare stock market investments. Users can input stock symbols, select analysis periods, and receive detailed financial metrics, historical charts, and sentiment analysis from recent news. The app aims to support informed investment decisions through data-driven insights.
 
